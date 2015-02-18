@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SelfieInstagram</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="loginMessage">Login to see the latest selfies from <b>INSTAGRAM</b></string>
+    <string name="login">login</string>
+    <string name="title_activity_web_view">WebViewActivity</string>
+    <string name="network_error">A network error occured. Please check your internet conection.</string>
+    <string name="welcome_user">Welcome, <b>%1$s</b></string>
+    <string name="title_activity_photo_detail">PhotoDetailActivity</string>
+
+</resources>
